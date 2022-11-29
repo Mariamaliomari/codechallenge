@@ -27,3 +27,14 @@
 * Deductions are (paye + NSSF+ nhif)
 * The Work or employee will earn  = Gross psalary - deductions e.g Gross salary - (paye + nssf + nhif) wiil equal to the net salary
     
+
+# project setup
+Each challenge is in a different file.
+To run each test:
+## Challenge 1: Grader
+`node grader.js` 
+
+## Challenge 2: Speed Detector
+`node speeddetector.js`
+## Challenge 3: Net salary calculator
+`node salary.js`
